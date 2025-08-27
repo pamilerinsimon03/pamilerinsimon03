@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Simon
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on programming and frontend development projects
-- 📫 How to reach me: simatechx@gmail.com
+- 📫 How to reach me: pamilerinsimon03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm weird and fun
 
