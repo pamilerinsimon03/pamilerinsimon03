@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olaniran Pamilerin</h1>
+<h1 align="center">Hi 👋, I'm Olaniran Pamilerin Simon</h1>
 <h3 align="center">A passionate frontend developer and python programmer from Nigeria.</h3>
 
 - 🔭 I’m currently working on [Cloudber (An Access Intelligence platform built for IAM, DevSecOps, and GRC.)](https://cloudber.vercel.app/)
